@@ -1,0 +1,16 @@
+.green-background {
+    height: 600px;
+    width: 900px;
+    background-color: #006A4E;
+}
+
+.red-circle {
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    background-color: #F42A41;
+
+    position: absolute;
+    top: 175px;
+    left: 325px;
+}
