@@ -1,0 +1,25 @@
+.aquamarine-background {
+    height: 300px;
+    width: 600px;
+    background-color: #00778B;
+
+    position: relative;
+}
+
+.yellow-line {
+    height: 100px;
+    width: 600px;
+    background-color: #FFC72C;
+
+    position: absolute;
+    top: 100px;
+}
+
+.black-triangle {
+    width: 250px;
+    height: 300px;
+    background-color: black;
+
+    position: absolute;
+    clip-path: polygon(0% 0%, 100% 50%, 0% 100%);
+}
