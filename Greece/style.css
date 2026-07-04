@@ -1,0 +1,41 @@
+.blue-background {
+    height: 450px;
+    width: 675px;
+    background-color: #005BA6;
+
+    position: relative;
+}
+
+.white-stripe {
+    height: 50px;
+    width: 675px;
+    background-color: #F5F5F5;  /* The white color would be unseen in white background. So, I changed color to gray. */
+
+    position: absolute;
+}
+
+.blue-square {
+    height: 250px;
+    width: 250px;
+    background-color: #005BA6;
+
+    position: absolute;
+}
+
+.horizontal-line {
+    width: 250px;
+    height: 50px;
+    background-color: #F5F5F5;  /* The white color would be unseen in white background. So, I changed color to gray. */
+
+    position: absolute;
+    top: 100px;
+}
+
+.vertical-line {
+    width: 50px;
+    height: 250px;
+    background-color: #F5F5F5;  /* The white color would be unseen in white background. So, I changed color to gray. */
+
+    position: absolute;
+    left: 100px;
+}
