@@ -1,0 +1,25 @@
+.white-background {
+    height: 500px;
+    width: 800px;
+    background-color: #F5F5F5;  /* The white color would be unseen in white background. So, I changed color to gray. */
+
+    position: relative;
+}
+
+.horizontal-line {
+    width: 800px;
+    height: 50px;
+    background-color: #002F6C;
+
+    position: absolute;
+    top: 200px;
+}
+
+.vertical-line {
+    width: 50px;
+    height: 500px;
+    background-color: #002F6C;
+
+    position: absolute;
+    left: 225px;
+}
