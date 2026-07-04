@@ -1,0 +1,28 @@
+.blue-background {
+    height: 600px;
+    width: 900px;
+    background-color: #21468B;
+
+    position: relative;
+}
+
+.red-line {
+    height: 200px;
+    width: 900px;
+    background-color: #AE1C28;
+
+    position: absolute;
+    top: 0;
+}
+
+.white-line {
+    height: 200px;
+    width: 900px;
+    background-color: #F5F5F5;  /* The white color would be unseen in white background. So, I changed color to gray. */;
+
+    position: absolute;
+    top: 200px;
+}
+
+
+
