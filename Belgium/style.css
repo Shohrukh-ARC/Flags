@@ -1,0 +1,23 @@
+.black-background {
+    height: 400px;
+    width: 600px;
+    background-color: #000000;
+}
+
+.yellow-background {
+    background-color: #FDDA24;
+    height: 400px;
+    width: 200px;
+
+    position: absolute;
+    left: 208px;
+}
+
+.red-background {
+    background-color: #EF3340;
+    height: 400px;
+    width: 200px;
+
+    position: absolute;
+    left: 408px;
+}
