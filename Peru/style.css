@@ -1,0 +1,14 @@
+.red-background {
+    height: 600px;
+    width: 900px;
+    background-color: #D91414;
+}
+
+.white-background {
+    background-color: #F5F5F5;  /* The white color would be unseen in white background. So, I changed color to gray. */
+    height: 600px;
+    width: 300px;
+
+    position: absolute;
+    left: 292px;
+}
