@@ -1,0 +1,14 @@
+.blue-background {
+    background-color: #005BBB;
+    height: 600px;
+    width: 900px;
+}
+
+.yellow-background {
+    background-color: #FFE800;
+    height: 300px;
+    width: 900px;
+
+    position: absolute;
+    top: 308px;
+}
