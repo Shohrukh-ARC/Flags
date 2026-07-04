@@ -1,0 +1,16 @@
+.white-background {
+    height: 600px;
+    width: 900px;
+    background-color: #F5F5F5;  /* The white color would be unseen in white background. So, I changed color to gray. */
+}
+
+.red-circle {
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    background-color: #BC002D;
+
+    position: absolute;
+    top: 175px;
+    left: 325px;
+}
