@@ -1,0 +1,15 @@
+.white-background {
+    background-color: #E9E8E7;
+    height: 500px;
+    width: 800px;
+}
+
+.red-background {
+    background-color: #D4213D;
+    height: 250px;
+    width: 800px;
+
+    position: absolute;
+    top: 258px;
+}
+
