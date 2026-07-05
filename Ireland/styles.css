@@ -1,0 +1,27 @@
+.orange {
+    height: 300px;
+    width: 600px;
+    background-color: #FF7900;
+    position: relative;
+}
+
+.white {
+    height: 300px;
+    width: 200px;
+    background-color: #F5F5F5;  /* The white color would be unseen in white background. So, I changed color to gray. */
+
+    position: absolute;
+    left: 192px;
+}
+
+.green {
+    height: 300px;
+    width: 192px;
+    background-color: #009A44;
+
+    position: absolute;
+    left: 0;
+}
+
+
+
