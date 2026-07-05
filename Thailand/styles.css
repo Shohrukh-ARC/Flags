@@ -1,0 +1,23 @@
+.red {
+    height: 300px;
+    width: 450px;
+    background-color: #df0e0e;
+}
+
+.white {
+    height: 200px;
+    width: 450px;
+    background-color: #F4F5F8;
+
+    position: absolute;
+    top: 58px;
+}
+
+.blue {
+    height: 100px;
+    width: 450px;
+    background-color: #2D2A4A;
+
+    position: absolute;
+    top: 108px;
+}
