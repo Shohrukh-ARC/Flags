@@ -1,0 +1,27 @@
+.red {
+    height: 300px;
+    width: 450px;
+    background-color: #CD212A;
+    position: relative;
+}
+
+.white {
+    height: 300px;
+    width: 150px;
+    background-color: #F4F5F0;
+
+    position: absolute;
+    left: 142px;
+}
+
+.green {
+    height: 300px;
+    width: 142px;
+    background-color: #008C45;
+
+    position: absolute;
+    left: 0;
+}
+
+
+
