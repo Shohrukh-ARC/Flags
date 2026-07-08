@@ -1,0 +1,43 @@
+.container {
+    height: 350px;
+    width: 300px;
+}
+
+.orange {
+    height: 117px;
+    width: 300px;
+    background-color: #E05206;
+
+    position: absolute;
+}
+
+.white {
+    height: 117px;
+    width: 300px;
+    background-color: #F5F5F5;  /* The white color would be unseen in white background. So, I changed color to gray. */
+
+    position: absolute;
+    top: 117px;
+}
+
+.white {
+    height: 117px;
+    width: 300px;
+    background-color: #0DB02B;
+
+    position: absolute;
+    top: 234px;
+}
+
+.circle {
+    height: 105px;
+    width: 105px;
+    background-color: #E05206;
+    border-radius: 50%;
+
+    position: absolute;
+    top: 127px;
+    left: 95px;
+}
+
+
