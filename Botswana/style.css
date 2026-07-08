@@ -1,0 +1,48 @@
+.container {
+    height: 600px;
+    width: 900px;
+}
+
+.blue-1 {
+    height: 250px;
+    width: 900px;
+    background-color: #6DA9D2;
+
+    position: absolute;
+}
+
+.white-line-1 {
+    height: 10px;
+    width: 900px;
+    background-color: #F5F5F5;  /* The white color would be unseen in white background. So, I changed color to gray. */
+
+    position: absolute;
+    top: 250px;
+}
+
+.black {
+    height: 80px;
+    width: 900px;
+    background-color: #000000;
+
+    position: absolute;
+    top: 260px;
+}
+
+.white-line-2 {
+    height: 10px;
+    width: 900px;
+    background-color: #F5F5F5;  /* The white color would be unseen in white background. So, I changed color to gray. */
+
+    position: absolute;
+    top: 340px;
+}
+
+.blue-2 {
+    height: 250px;
+    width: 900px;
+    background-color: #6DA9D2;
+
+    position: absolute;
+    top: 350px;
+}
