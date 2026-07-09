@@ -1,0 +1,31 @@
+.container {
+    height: 450px;
+    width: 900px;
+    position: relative;
+}
+
+.red {
+    height: 150px;
+    width: 900px;
+    background: #D90012;
+
+    position: absolute;
+}
+
+.blue {
+    height: 150px;
+    width: 900px;
+    background: #0033A0;
+
+    position: absolute;
+    top: 150px;
+}
+
+.orange {
+    height: 150px;
+    width: 900px;
+    background: #F2A800;
+
+    position: absolute;
+    top: 300px;
+}
