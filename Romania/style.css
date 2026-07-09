@@ -1,0 +1,21 @@
+.flag {
+    display: flex;
+    width: 450px;
+    height: 300px;
+}
+
+.blue, .yellow, .red {
+    flex: 1;
+}
+
+.blue {
+    background-color: #002B7F;
+}
+
+.yellow {
+    background-color: #FCD116;
+}
+
+.red {
+    background-color: #CE1126;
+}
