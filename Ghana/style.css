@@ -1,0 +1,55 @@
+.container {
+    height: 600px;
+    width: 900px;
+
+    position: relative;
+}
+
+.red {
+    height: 200px;
+    width: 900px;
+    background-color: #CF0921;
+
+    position: absolute;
+}
+
+.yellow {
+    height: 200px;
+    width: 900px;
+    background-color: #FCD20F;
+
+    position: absolute;
+    top: 200px;
+}
+
+.green {
+    height: 200px;
+    width: 900px;
+    background-color: #006B3D;
+
+    position: absolute;
+    top: 400px;
+}
+
+.star {
+    height: 200px;
+    width: 200px;
+    background-color: #000000;
+
+    position: absolute;
+    top: 200px;
+    left: 350px;
+
+    clip-path: polygon(
+            50% 0%,
+            62.5% 38%,
+            100% 38%,
+            70% 61.5%,
+            81.5% 100%,
+            50% 77%,
+            18.5% 100%,
+            30% 61.5%,
+            0% 38%,
+            37.5% 38%
+    );
+}
