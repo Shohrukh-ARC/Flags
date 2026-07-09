@@ -1,0 +1,31 @@
+.container {
+    height: 600px;
+    width: 900px;
+    position: relative;
+}
+
+.yellow {
+    height: 300px;
+    width: 900px;
+    background-color: #FFCD00;
+
+    position: absolute;
+}
+
+.blue {
+    height: 150px;
+    width: 900px;
+    background-color: #003087;
+
+    position: absolute;
+    top: 300px;
+}
+
+.red {
+    height: 150px;
+    width: 900px;
+    background-color: #C8102E;
+
+    position: absolute;
+    top: 450px;
+}
