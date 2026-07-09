@@ -1,0 +1,26 @@
+.yellow {
+    height: 600px;
+    width: 900px;
+    background-color: #FFD100;
+
+    position: relative;
+}
+
+.green {
+    height: 600px;
+    width: 600px;
+    background-color: #009739;
+
+    position: absolute;
+    clip-path: polygon(0px 0px, 600px 0px, 0px 600px);
+}
+
+.red {
+    height: 600px;
+    width: 600px;
+    background-color: #EF3340;
+
+    position: absolute;
+    left: 300px;
+    clip-path: polygon(600px 0px, 0px 600px, 600px 600px);
+}
