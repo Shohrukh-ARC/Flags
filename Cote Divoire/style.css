@@ -1,0 +1,22 @@
+.container {
+    display: flex;
+    height: 400px;
+    width: 600px;
+}
+
+.orange, .white, .green {
+    flex: 1;
+}
+
+.orange {
+    background-color: #FF8200;
+}
+
+.white {
+    background-color: #F5F5F5;  /* The white color would be unseen in white background. So, I changed color to gray. */
+}
+
+.green {
+    background-color: #009A44;
+}
+
