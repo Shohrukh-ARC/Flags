@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    height: 400px;
+    width: 600px;
+}
+
+.orange, .white, .green {
+    flex: 1;
+}
+
+.orange {
+    background-color: #14B53A;
+}
+
+.white {
+    background-color: #FCD116;
+}
+
+.green {
+    background-color: #CE1126;
+}
