@@ -1,0 +1,42 @@
+.blue {
+    height: 360px;
+    width: 500px;
+    background-color: #02529C;
+    position: absolute;
+}
+
+.white-1 {
+    height: 360px;
+    width: 80px;
+    background-color: #F5F5F5;  /* The white color would be unseen in white background. So, I changed color to gray. */
+
+    position: absolute;
+    left: 140px;
+}
+
+.white-2 {
+    width: 500px;
+    height: 80px;
+    background-color: #F5F5F5; /* The white color would be unseen in white background. So, I changed color to gray. */
+
+    position: absolute;
+    top: 140px;
+}
+
+.red-1 {
+    height: 360px;
+    width: 40px;
+    background-color: #DC1E35;
+
+    position: absolute;
+    left: 160px;
+}
+
+.red-2 {
+    width: 500px;
+    height: 40px;
+    background-color: #DC1E35;
+
+    position: absolute;
+    top: 160px;
+}
