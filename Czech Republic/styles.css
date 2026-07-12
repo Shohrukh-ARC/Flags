@@ -1,0 +1,32 @@
+.wrapper {
+    height: 600px;
+    width: 900px;
+    position: relative;
+}
+
+.white {
+    height: 300px;
+    width: 900px;
+    background-color: #F5F5F5;  /* The white color would be unseen in white background. So, I changed color to gray. */
+
+    position: absolute;
+}
+
+
+.red {
+    height: 300px;
+    width: 900px;
+    background-color: #D71920;
+
+    position: absolute;
+    top: 300px;
+}
+
+.blue {
+    height: 600px;
+    width: 450px;
+    background-color: #11457E;
+
+    position: absolute;
+    clip-path: polygon(0% 0%, 100% 50%, 0% 100%);
+}
