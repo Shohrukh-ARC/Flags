@@ -1,0 +1,40 @@
+.wrapper {
+    height: 450px;
+    width: 900px;
+
+    position: absolute;
+}
+
+.green {
+    height: 150px;
+    width: 900px;
+    background-color: #00732F;
+
+    position: absolute;
+}
+
+.white {
+    height: 150px;
+    width: 900px;
+    background-color: #F5F5F5;  /* The white color would be unseen in white background. So, I changed color to gray. */
+
+    position: absolute;
+    top: 150px;
+}
+
+.white {
+    height: 150px;
+    width: 900px;
+    background-color: #000000;
+
+    position: absolute;
+    top: 300px;
+}
+
+.red {
+    height: 450px;
+    width: 225px;
+    background-color: #FF0000;
+
+    position: absolute;
+}
