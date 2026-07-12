@@ -1,0 +1,33 @@
+.red {
+    height: 600px;
+    width: 900px;
+    background-color: #CE1126;
+    position: absolute;
+}
+
+.blue-1 {
+    height: 150px;
+    width: 900px;
+    background-color: #002868;
+    position: absolute;
+}
+
+.blue-2 {
+    height: 150px;
+    width: 900px;
+    background-color: #002868;
+
+    position: absolute;
+    top: 450px;
+}
+
+.circle {
+    height: 240px;
+    width: 240px;
+    background-color: #FFFFFF;
+    border-radius: 50%;
+
+    position: absolute;
+    top: 180px;
+    left: 330px;
+}
