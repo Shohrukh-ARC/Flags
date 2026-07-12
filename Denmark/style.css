@@ -1,0 +1,25 @@
+.red {
+    height: 560px;
+    width: 740px;
+    background-color: #C8102E;
+    position: absolute;
+}
+
+.white-1 {
+    height: 560px;
+    width: 80px;
+    background-color: #F5F5F5;  /* The white color would be unseen in white background. So, I changed color to gray. */
+
+    position: absolute;
+    left: 240px;
+}
+
+.white-2 {
+    width: 740px;
+    height: 80px;
+    background-color: #F5F5F5; /* The white color would be unseen in white background. So, I changed color to gray. */
+
+    position: absolute;
+    top: 240px;
+}
+
