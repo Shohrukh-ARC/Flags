@@ -1,0 +1,31 @@
+.container {
+    height: 600px;
+    width: 900px;
+    position: relative;
+}
+
+.blue {
+    height: 600px;
+    width: 290px;
+    background-color: #002654;
+
+    position: absolute;
+}
+
+.white {
+    height: 600px;
+    width: 300px;
+    background-color: #F5F5F5;  /* The white color would be unseen in white background. So, I changed color to gray. */
+
+    position: absolute;
+    left: 290px;
+}
+
+.red {
+    height: 600px;
+    width: 300px;
+    background-color: #ED2939;
+
+    position: absolute;
+    left: 590px;
+}

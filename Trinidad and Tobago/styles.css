@@ -1,0 +1,35 @@
+.container {
+    height: 600px;
+    width: 900px;
+    background-color: #F5F5F5;  /* The white color would be unseen in white background. So, I changed color to gray. */
+    position: absolute;
+}
+
+.red-1 {
+    height: 600px;
+    width: 600px;
+    background-color: #DA1A32;
+
+    position: absolute;
+    clip-path: polygon(0% 0%, 100% 100%, 0% 100%);
+ }
+
+.red-2 {
+    height: 600px;
+    width: 600px;
+    background-color: #DA1A32;
+
+    position: absolute;
+    left: 300px;
+    clip-path: polygon(0% 0%, 100% 0%, 100% 100%);
+}
+
+.black {
+    height: 600px;
+    width: 800px;
+    background-color: #000000;
+
+    position: absolute;
+    left: 50px;
+    clip-path: polygon(0px 0px, 200px 0px, 800px 600px, 600px 600px, 0px 0px);
+}
