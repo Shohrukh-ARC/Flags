@@ -1,0 +1,23 @@
+.flag {
+    display: grid;
+    grid-template-rows: 6fr 1fr 4fr 1fr 6fr;
+
+    height: 600px;
+    width: 900px;
+}
+
+.red {
+    background-color: #CE1126;
+}
+
+.white {
+    background-color: #F5F5F5;  /* The white color would be unseen in white background. So, I changed color to gray. */
+}
+
+.blue {
+    background-color: #0C1C8C;
+}
+
+.green {
+    background-color: #3A7728;
+}
